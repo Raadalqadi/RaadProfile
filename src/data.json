@@ -1,0 +1,768 @@
+[
+  {
+    "nav": {
+      "title": "ScarTech",
+      "links": [
+        "home",
+        "servies",
+        "project",
+        "blog",
+        "pricing",
+        "contact"
+      ],
+      "sign": [
+        "log in",
+        "Get started"
+      ]
+    },
+    "home": {
+      "title": "We are Digital Agency",
+      "description": "A leading digital agency that works to provide creative and advanced technical solutions to its clients. Our agency combines deep experience and constant innovation to achieve and exceed clients' goals. We provide integrated services that include design and website development, digital campaign management, mobile application development, social media marketing, and data analytics.",
+      "btn": "Get started",
+      "card": "We care about understanding our customers' needs and strive to provide customized solutions that perfectly meet those needs, which contributes to the success of their business and achieving the desired results.",
+      "img_links": [
+        "./assets/img/logos/gray-logos/logo-apple.svg",
+        "./assets/img/logos/gray-logos/logo-digitalocean.svg",
+        "./assets/img/logos/gray-logos/logo-facebook.svg",
+        "./assets/img/logos/gray-logos/logo-netflix.svg"
+      ],
+      "home_bg": "./assets/img/rotating-card-bg-back.jpeg"
+    },
+    "servies": {
+      "title": "our awesome servies",
+      "description": "we specialize in delivering comprehensive web solutions tailored to meet the diverse needs of businesses and individuals seeking to thrive in the digital landscape. Our range of services encompasses every aspect of establishing, enhancing, and maintaining a strong online presence.",
+      "cards": [
+        {
+          "title": "Website Development:",
+          "description": "We craft visually stunning and highly functional websites that captivate audiences and drive engagement. Whether you require a sleek corporate site, an e-commerce platform, or a dynamic web application, our expert team of developers ensures a seamless digital experience.",
+          "img": "./assets/img/servies/web-dev-icon_.png"
+        },
+        {
+          "title": "Digital Marketing",
+          "description": "Unlock the full potential of your online presence with our strategic digital marketing solutions. From search engine optimization (SEO) and pay-per-click (PPC) advertising to social media management and content marketing, we help you amplify your brand's visibility and drive meaningful conversions.",
+          "img": "./assets/img/servies/google-marketing-platform_.png"
+        },
+        {
+          "title": "E-commerce Solutions",
+          "description": "Maximize your online sales potential with our comprehensive e-commerce solutions. We design and develop robust online stores equipped with advanced features such as secure payment gateways, inventory management systems, and personalized user experiences, empowering you to drive revenue and customer satisfaction.",
+          "img": "./assets/img/servies/shop_.png"
+        },
+        {
+          "title": "Custom Web Solutions",
+          "description": "Every business is unique, and so are its digital needs. Our team excels in creating bespoke web solutions tailored to your specific requirements. Whether you need a custom web application, API integration, or legacy system migration, we deliver innovative solutions that align perfectly with your goals.",
+          "img": "./assets/img/servies/idea_.png"
+        }
+      ],
+      "btn": "Lead more",
+      "section2nd": {
+        "small_title": " a few word about my compnay",
+        "title": "a study of creative",
+        "description": " My company, Crystal, works to provide technological solutions to meet customer needs that help them achieve their goals. We strive to achieve high-quality software goals based on the latest details and industry practices. ",
+        "btn1": "get started",
+        "btn2": "countact us",
+        "bg": "./assets/img/rotating-card-bg-front.jpeg"
+      }
+    },
+    "project": {
+      "title": "Projects Gallery",
+      "description": "Explore a variety of outstanding projects developed using various technologies, including web, applications, and more. Discover the latest innovations and advancements in the world of software development and technology.",
+      "category": [
+        "all",
+        "html/css",
+        "react",
+        "redux",
+        "javascript",
+        "mongodb",
+        "express",
+        "django",
+        "flask",
+        "wordpress",
+        "material-ui",
+        "laravel",
+        "vue.js",
+        "node.js",
+        "angular",
+        "ruby on rails",
+        "react native",
+        "asp.net",
+        "firebase"
+      ],
+      "items": [
+        {
+          "id": "1",
+          "title": "E-commerce Website",
+          "description": "An e-commerce platform built using React.js and Redux for state management. This project includes features such as product listing, user authentication, shopping cart, and payment gateway integration.",
+          "img": "./assets/img/projects/ecommerce.jpg",
+          "category": [
+            "all",
+            "html/css",
+            "react",
+            "redux",
+            "javascript"
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Social Networking Site",
+          "description": "A social networking platform developed using MERN stack (MongoDB, Express.js, React.js, Node.js). Users can create profiles, connect with friends, share posts, and interact with other users.",
+          "img": "./assets/img/projects/social.jpg",
+          "category": [
+            "all",
+            "react",
+            "javascript",
+            "mongodb",
+            "express"
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Portfolio Website",
+          "description": "A personal portfolio website showcasing projects, skills, and experiences. Built using HTML, CSS, and JavaScript, with responsive design for optimal viewing across devices.",
+          "img": "./assets/img/projects/portfolio.jpg",
+          "category": [
+            "all",
+            "html/css",
+            "javascript"
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Blog Application",
+          "description": "A full-stack blog application built with Django and React.js. Users can create, edit, and delete blog posts, as well as comment on posts. Features include user authentication and authorization.",
+          "img": "./assets/img/projects/blog.jpg",
+          "category": [
+            "all",
+            "react",
+            "django",
+            "javascript"
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Online Learning Platform",
+          "description": "An online learning platform where users can enroll in courses, watch lectures, complete quizzes, and earn certificates. Built using MERN stack and integrates with Stripe for payment processing.",
+          "img": "./assets/img/projects/learning.jpg",
+          "category": [
+            "all",
+            "react",
+            "mongodb",
+            "express",
+            "node.js"
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Travel Blog",
+          "description": "A travel blog website where users can share their travel experiences, tips, and photos. Built with WordPress and customized with HTML, CSS, and JavaScript.",
+          "img": "./assets/img/projects/travel.jpg",
+          "category": [
+            "all",
+            "wordpress",
+            "html/css",
+            "javascript"
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Recipe App",
+          "description": "A recipe application where users can browse recipes, search for specific dishes, and save their favorite recipes. Developed with React.js and styled with Material-UI.",
+          "img": "./assets/img/projects/recipe.jpg",
+          "category": [
+            "all",
+            "react",
+            "javascript",
+            "material-ui"
+          ]
+        },
+        {
+          "id": "8",
+          "title": "E-learning Platform",
+          "description": "An e-learning platform offering courses on various subjects. Built with Laravel for the backend and Vue.js for the frontend. Features include video lectures, quizzes, and certificates.",
+          "img": "./assets/img/projects/elearning.jpg",
+          "category": [
+            "all",
+            "laravel",
+            "vue.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "9",
+          "title": "Job Search Website",
+          "description": "A job search platform where users can search for job listings, create profiles, and apply for jobs. Developed with Django for the backend and React.js for the frontend.",
+          "img": "./assets/img/projects/jobsearch.jpg",
+          "category": [
+            "all",
+            "django",
+            "react",
+            "javascript"
+          ]
+        },
+        {
+          "id": "10",
+          "title": "Music Streaming Service",
+          "description": "A music streaming service allowing users to listen to songs, create playlists, and follow artists. Built with Flask and React.js. Integrates with Spotify API for music data.",
+          "img": "./assets/img/projects/music.jpg",
+          "category": [
+            "all",
+            "flask",
+            "react",
+            "javascript"
+          ]
+        },
+        {
+          "id": "11",
+          "title": "Fitness Tracker App",
+          "description": "A fitness tracking application that allows users to log their workouts, set goals, and track their progress over time. Developed with React Native for cross-platform compatibility.",
+          "img": "./assets/img/projects/fitness.jpg",
+          "category": [
+            "all",
+            "react native",
+            "javascript"
+          ]
+        },
+        {
+          "id": "12",
+          "title": "Real Estate Website",
+          "description": "A real estate platform where users can browse property listings, schedule viewings, and contact agents. Built with Angular for the frontend and Node.js for the backend.",
+          "img": "./assets/img/projects/real-estate.jpg",
+          "category": [
+            "all",
+            "angular",
+            "node.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "13",
+          "title": "Online Marketplace",
+          "description": "An online marketplace connecting buyers and sellers. Features include product listings, reviews, and secure payments. Developed with Ruby on Rails and React.js.",
+          "img": "./assets/img/projects/marketplace.jpg",
+          "category": [
+            "all",
+            "ruby on rails",
+            "react",
+            "javascript"
+          ]
+        },
+        {
+          "id": "14",
+          "title": "Weather App",
+          "description": "A weather application that provides current weather conditions and forecasts for locations worldwide. Built with Vue.js and utilizes the OpenWeatherMap API.",
+          "img": "./assets/img/projects/weather.jpg",
+          "category": [
+            "all",
+            "vue.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "15",
+          "title": "Task Management System",
+          "description": "A task management application for organizing and prioritizing tasks. Features include task lists, due dates, and reminders. Developed with Django and Vue.js.",
+          "img": "./assets/img/projects/task-management.jpg",
+          "category": [
+            "all",
+            "django",
+            "vue.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "16",
+          "title": "Restaurant Reservation System",
+          "description": "A web-based system for making restaurant reservations. Allows users to browse restaurants, view available tables, and make reservations. Built with ASP.NET and Angular.",
+          "img": "./assets/img/projects/restaurant-reservation.jpg",
+          "category": [
+            "all",
+            "asp.net",
+            "angular",
+            "javascript"
+          ]
+        },
+        {
+          "id": "17",
+          "title": "Cryptocurrency Portfolio Tracker",
+          "description": "A portfolio tracker for monitoring cryptocurrency investments. Allows users to track their holdings, view market trends, and set price alerts. Developed with React.js and Node.js.",
+          "img": "./assets/img/projects/crypto-portfolio.jpg",
+          "category": [
+            "all",
+            "react",
+            "node.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "18",
+          "title": "Event Management Platform",
+          "description": "An event management platform for organizing and promoting events. Features include event registration, ticketing, and attendee management. Built with Laravel and Vue.js.",
+          "img": "./assets/img/projects/event-management.jpg",
+          "category": [
+            "all",
+            "laravel",
+            "vue.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "19",
+          "title": "Online Auction Site",
+          "description": "An online auction platform where users can bid on items and participate in auctions. Features include bidding history, auction alerts, and seller profiles. Developed with Django and React.js.",
+          "img": "./assets/img/projects/auction.jpg",
+          "category": [
+            "all",
+            "django",
+            "react",
+            "javascript"
+          ]
+        },
+        {
+          "id": "20",
+          "title": "Recipe Sharing App",
+          "description": "A recipe sharing application where users can discover, save, and share recipes. Features include recipe categories, search functionality, and user profiles. Developed with Angular and Firebase.",
+          "img": "./assets/img/projects/recipe-sharing.jpg",
+          "category": [
+            "all",
+            "angular",
+            "firebase",
+            "javascript"
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "company": {
+        "title": "ScarTech",
+        "description": "Leading technology company specializing in web development and software solutions."
+      },
+      "project": {
+        "title": "project",
+        "category": [
+          "Html/css",
+          "react",
+          "javascript",
+          "typeScript"
+        ]
+      },
+      "contact": {
+        "title": "contact US",
+        "address": "Yemen,Aden,enma",
+        "email": "scratech_website@gmail.com",
+        "phone": "+967 782 367 865",
+        "phone2": "+967 736 613 287"
+      },
+      "social": {
+        "title": "follw US",
+        "links":[
+          {
+            "link":"",
+            "icon":"./assets/img/social/facebook_.png"
+          },
+          {
+            "link":"",
+            "icon":"./assets/img/social/instagram_.png"
+          },
+          {
+            "link":"",
+            "icon":"./assets/img/social/twitter_.png"
+          },
+          {
+            "link":"",
+            "icon":"./assets/img/social/google_.png"
+          },
+          {
+            "link":"",
+            "icon":"./assets/img/social/github_.png"
+          },
+          {
+            "link":"",
+            "icon":"./assets/img/social/linkedin.png"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "nav": {
+      "title": "سكارتك",
+      "links": [
+        "الرئيسه",
+        "خدمات",
+        "مشاريع",
+        "مدونه",
+        "الاسعار",
+        "التواصل"
+      ],
+      "sign": [
+        "تسجيل الدخول",
+        "ابدا الان "
+      ]
+    },
+    "home": {
+      "title": "نحن وكالة رقمية",
+      "description": "وكالة رقمية رائدة تعمل على تقديم حلول إبداعية وتقنية متطورة لعملائها. تجمع وكالتنا بين الخبرة العميقة والابتكار الدائم لتحقيق أهداف العملاء وتفوقها. نقدم خدمات متكاملة تشمل التصميم وتطوير المواقع الإلكترونية، وإدارة الحملات الرقمية، وتطوير التطبيقات الجوالة، والتسويق عبر وسائل التواصل الاجتماعي، والتحليلات البيانية.",
+      "btn": "البدء",
+      "card": " نحن نهتم بفهم احتياجات عملائنا ونسعى جاهدين لتقديم حلول مخصصة تلبي تلك الاحتياجات بشكل مثالي، مما يسهم في نجاح أعمالهم وتحقيق النتائج المرجوة",
+      "img_links": [
+        "./assets/img/logos/gray-logos/logo-apple.svg",
+        "./assets/img/logos/gray-logos/logo-digitalocean.svg",
+        "./assets/img/logos/gray-logos/logo-facebook.svg",
+        "./assets/img/logos/gray-logos/logo-netflix.svg"
+      ],
+      "home_bg": "./assets/img/rotating-card-bg-back.jpeg"
+    },
+    "servies": {
+      "title": "خدماتنا الرائعة",
+      "description": "نحن متخصصون في تقديم حلول ويب شاملة مصممة خصيصًا لتلبية الاحتياجات المتنوعة للشركات والأفراد الذين يسعون إلى تحقيق النجاح في المشهد الرقمي. تشمل مجموعة خدماتنا كل جانب من جوانب إنشاء وتعزيز والحفاظ على تواجد قوي عبر الإنترنت.",
+      "cards": [
+        {
+          "title": "تطوير المواقع الإلكترونية:",
+          "description": "نحن نقوم بتصميم مواقع إلكترونية جذابة بصريًا وعالية الوظائف تجذب الجماهير وتدفع التفاعل. سواء كنت بحاجة إلى موقع شركات أنيق، منصة تجارة إلكترونية، أو تطبيق ويب ديناميكي، فإن فريقنا المتخصص من المطورين يضمن تجربة رقمية سلسة.",
+          "img": "./assets/img/servies/web-dev-icon_.png"
+        },
+        {
+          "title": "التسويق الرقمي",
+          "description": "فك قدرات وجودك على الإنترنت بواسطة حلولنا الاستراتيجية للتسويق الرقمي. من تحسين محركات البحث (SEO) والإعلانات بالنقر على الأداء (PPC) إلى إدارة وسائل التواصل الاجتماعي وتسويق المحتوى، نساعدك في تعزيز رؤية علامتك التجارية وتحقيق تحويلات معنوية.",
+          "img": "./assets/img/servies/google-marketing-platform_.png"
+        },
+        {
+          "title": "حلول التجارة الإلكترونية",
+          "description": "قم بتحقيق الحد الأقصى لإمكانية مبيعاتك عبر الإنترنت من خلال حلول التجارة الإلكترونية الشاملة لدينا. نقوم بتصميم وتطوير متاجر إلكترونية قوية مجهزة بميزات متقدمة مثل بوابات الدفع الآمنة، وأنظمة إدارة المخزون، وتجارب المستخدم المخصصة، مما يمكنك من زيادة الإيرادات ورضاء العملاء.",
+          "img": "./assets/img/servies/shop_.png"
+        },
+        {
+          "title": "حلول الويب المخصصة",
+          "description": "كل عمل هو فريد، وكذلك احتياجاته الرقمية. يتفوق فريقنا في إنشاء حلول ويب مخصصة تصميمها لتلبية متطلباتك الخاصة. سواء كنت بحاجة إلى تطبيق ويب مخصص، أو دمج واجهة برمجة تطبيقات (API)، أو ترحيل نظام أرثوذكسي، فإننا نقدم حلولًا مبتكرة تتناسب بشكل مثالي مع أهدافك.",
+          "img": "./assets/img/servies/idea_.png"
+        }
+      ],
+      "btn": "عرض المزيد",
+      "section2nd": {
+        "small_title": "بضع كلمات عن شركتي",
+        "title": "دراسة الإبداع",
+        "description": "تعمل شركتي كريستال على تقديم حلول تكنولوجية لتلبية احتياجات العملاء التي تساعدهم على تحقيق أهدافهم. نحن نسعى جاهدين لتحقيق أهداف برمجية عالية الجودة بناءً على أحدث التفاصيل وممارسات الصناعة.",
+        "btn1": "ابدأ",
+        "btn2": "اتصل بنا",
+        "bg": "./assets/img/rotating-card-bg-front.jpeg"
+      }
+    },
+    "project": {
+      "title": "معرض المشاريع",
+      "description": "استكشاف مجموعة متنوعة من المشاريع الرائعة التي تم تطويرها باستخدام مجموعة متنوعة من التقنيات، بما في ذلك الويب والتطبيقات والمزيد. اطلع على أحدث الإبداعات والتطورات في عالم تطوير البرمجيات والتكنولوجيا.",
+      "category": [
+        "all",
+        "html/css",
+        "react",
+        "redux",
+        "javascript",
+        "mongodb",
+        "express",
+        "django",
+        "flask",
+        "wordpress",
+        "material-ui",
+        "laravel",
+        "vue.js",
+        "node.js",
+        "angular",
+        "ruby on rails",
+        "react native",
+        "asp.net",
+        "firebase"
+      ],
+      "items": [
+        {
+          "id": "1",
+          "title": "موقع الكتروني للتجارة الإلكترونية",
+          "description": "منصة للتجارة الإلكترونية تم بناؤها باستخدام React.js وRedux لإدارة الحالة. يتضمن هذا المشروع ميزات مثل عرض المنتجات، المصادقة للمستخدمين، سلة التسوق، وتكامل بوابة الدفع.",
+          "img": "./assets/img/projects/ecommerce.jpg",
+          "category": [
+            "all",
+            "html/css",
+            "react",
+            "redux",
+            "javascript"
+          ]
+        },
+        {
+          "id": "2",
+          "title": "موقع تواصل اجتماعي",
+          "description": "منصة للتواصل الاجتماعي تم تطويرها باستخدام مكدوب الأرض (MongoDB، Express.js، React.js، Node.js). يمكن للمستخدمين إنشاء ملفات تعريف، الاتصال بالأصدقاء، مشاركة المنشورات، والتفاعل مع مستخدمين آخرين.",
+          "img": "./assets/img/projects/social.jpg",
+          "category": [
+            "all",
+            "react",
+            "javascript",
+            "mongodb",
+            "express"
+          ]
+        },
+        {
+          "id": "3",
+          "title": "موقع السيرة الذاتية",
+          "description": "موقع شخصي يعرض المشاريع والمهارات والخبرات. تم بناؤه باستخدام HTML وCSS وJavaScript، مع تصميم متجاوب لعرض مثالي عبر الأجهزة.",
+          "img": "./assets/img/projects/portfolio.jpg",
+          "category": [
+            "all",
+            "html/css",
+            "javascript"
+          ]
+        },
+        {
+          "id": "4",
+          "title": "تطبيق البلوق",
+          "description": "تطبيق البلوق الكامل الدعم الذي تم بناؤه باستخدام Django وReact.js. يمكن للمستخدمين إنشاء، تحرير، وحذف المنشورات، بالإضافة إلى التعليق على المنشورات. يتضمن ميزات مثل المصادقة والتفويض للمستخدم.",
+          "img": "./assets/img/projects/blog.jpg",
+          "category": [
+            "all",
+            "react",
+            "django",
+            "javascript"
+          ]
+        },
+        {
+          "id": "5",
+          "title": "منصة التعلم عبر الإنترنت",
+          "description": "منصة للتعلم عبر الإنترنت حيث يمكن للمستخدمين التسجيل في الدورات، مشاهدة المحاضرات، إكمال الاختبارات، وكسب الشهادات. تم بناؤها باستخدام مكدوب الأرض وتتكامل مع Stripe لمعالجة الدفع.",
+          "img": "./assets/img/projects/learning.jpg",
+          "category": [
+            "all",
+            "react",
+            "mongodb",
+            "express",
+            "node.js"
+          ]
+        },
+        {
+          "id": "6",
+          "title": "مدونة السفر",
+          "description": "موقع ويب لمدونة السفر حيث يمكن للمستخدمين مشاركة تجاربهم في السفر، والنصائح، والصور. تم بناؤه باستخدام ووردبريس وتخصيصه ب HTML و CSS و JavaScript.",
+          "img": "./assets/img/projects/travel.jpg",
+          "category": [
+            "all",
+            "wordpress",
+            "html/css",
+            "javascript"
+          ]
+        },
+        {
+          "id": "7",
+          "title": "تطبيق الوصفات",
+          "description": "تطبيق الوصفات حيث يمكن للمستخدمين تصفح الوصفات، البحث عن أطباق معينة، وحفظ الوصفات المفضلة لديهم. تم تطويره باستخدام React.js وتم تصميمه بـ Material-UI.",
+          "img": "./assets/img/projects/recipe.jpg",
+          "category": [
+            "all",
+            "react",
+            "javascript",
+            "material-ui"
+          ]
+        },
+        {
+          "id": "8",
+          "title": "منصة التعلم الإلكتروني",
+          "description": "منصة للتعلم الإلكتروني تقدم دورات في مواضيع مختلفة. تم بناؤها باستخدام Laravel للجزء الخلفي و Vue.js للجزء الأمامي. تتضمن ميزات مثل محاضرات الفيديو والاختبارات والشهادات.",
+          "img": "./assets/img/projects/elearning.jpg",
+          "category": [
+            "all",
+            "laravel",
+            "vue.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "9",
+          "title": "موقع بحث عن وظيفة",
+          "description": "منصة بحث عن وظيفة حيث يمكن للمستخدمين البحث عن قوائم وظائف، إنشاء ملفات تعريف، والتقديم للوظائف. تم تطويره باستخدام Django للجزء الخلفي و React.js للجزء الأمامي.",
+          "img": "./assets/img/projects/jobsearch.jpg",
+          "category": [
+            "all",
+            "django",
+            "react",
+            "javascript"
+          ]
+        },
+        {
+          "id": "10",
+          "title": "خدمة تدفق الموسيقى",
+          "description": "خدمة تدفق الموسيقى تسمح للمستخدمين بالاستماع إلى الأغاني، وإنشاء قوائم تشغيل، ومتابعة الفنانين. تم بناؤها باستخدام Flask و React.js. تتكامل مع واجهة برمجة التطبيقات الخاصة بـ Spotify لبيانات الموسيقى.",
+          "img": "./assets/img/projects/music.jpg",
+          "category": [
+            "all",
+            "flask",
+            "react",
+            "javascript"
+          ]
+        },
+        {
+          "id": "11",
+          "title": "تطبيق تتبع اللياقة البدنية",
+          "description": "تطبيق لتتبع اللياقة البدنية يتيح للمستخدمين تسجيل تمارينهم الرياضية، وتحديد الأهداف، وتتبع تقدمهم مع مرور الوقت. تم تطويره باستخدام React Native للتوافق مع جميع المنصات.",
+          "img": "./assets/img/projects/fitness.jpg",
+          "category": [
+            "all",
+            "react native",
+            "javascript"
+          ]
+        },
+        {
+          "id": "12",
+          "title": "موقع عقاري",
+          "description": "منصة عقارية حيث يمكن للمستخدمين تصفح قوائم العقارات، وجداول المشاهدات، والاتصال بالوكلاء. تم بناؤها باستخدام Angular للجزء الأمامي و Node.js للجزء الخلفي.",
+          "img": "./assets/img/projects/real-estate.jpg",
+          "category": [
+            "all",
+            "angular",
+            "node.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "13",
+          "title": "سوق عبر الإنترنت",
+          "description": "سوق عبر الإنترنت يربط بين البائعين والمشترين. تتضمن الميزات قوائم المنتجات، والمراجعات، والمدفوعات الآمنة. تم تطويره باستخدام Ruby on Rails وReact.js.",
+          "img": "./assets/img/projects/marketplace.jpg",
+          "category": [
+            "all",
+            "ruby on rails",
+            "react",
+            "javascript"
+          ]
+        },
+        {
+          "id": "14",
+          "title": "تطبيق الطقس",
+          "description": "تطبيق يقدم الأحوال الجوية الحالية والتنبؤات للمواقع في جميع أنحاء العالم. تم بناؤه باستخدام Vue.js ويستخدم API OpenWeatherMap.",
+          "img": "./assets/img/projects/weather.jpg",
+          "category": [
+            "all",
+            "vue.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "15",
+          "title": "نظام إدارة المهام",
+          "description": "تطبيق لإدارة المهام يساعد في تنظيم المهام وتحديد أولوياتها. تتضمن الميزات قوائم المهام، والمواعيد النهائية، والتذكيرات. تم تطويره باستخدام Django و Vue.js.",
+          "img": "./assets/img/projects/task-management.jpg",
+          "category": [
+            "all",
+            "django",
+            "vue.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "16",
+          "title": "نظام حجز المطاعم",
+          "description": "نظام ويب لحجز المطاعم. يتيح للمستخدمين تصفح المطاعم، وعرض الطاولات المتاحة، وإجراء الحجوزات. تم بناؤه باستخدام ASP.NET و Angular.",
+          "img": "./assets/img/projects/restaurant-reservation.jpg",
+          "category": [
+            "all",
+            "asp.net",
+            "angular",
+            "javascript"
+          ]
+        },
+        {
+          "id": "17",
+          "title": "متتبع محفظة العملات المشفرة",
+          "description": "متتبع لمحافظ العملات المشفرة لمراقبة الاستثمارات. يسمح للمستخدمين بتتبع محفظتهم، وعرض اتجاهات السوق، وتحديد تنبيهات الأسعار. تم تطويره باستخدام React.js و Node.js.",
+          "img": "./assets/img/projects/crypto-portfolio.jpg",
+          "category": [
+            "all",
+            "react",
+            "node.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "18",
+          "title": "منصة إدارة الفعاليات",
+          "description": "منصة لإدارة الفعاليات لتنظيم الفعاليات والترويج لها. تتضمن الميزات تسجيل الفعاليات، وبيع التذاكر، وإدارة الحضور. تم بناؤها باستخدام Laravel و Vue.js.",
+          "img": "./assets/img/projects/event-management.jpg",
+          "category": [
+            "all",
+            "laravel",
+            "vue.js",
+            "javascript"
+          ]
+        },
+        {
+          "id": "19",
+          "title": "موقع مزاد عبر الإنترنت",
+          "description": "منصة مزاد عبر الإنترنت حيث يمكن للمستخدمين المزايدة على العناصر والمشاركة في المزادات. تتضمن الميزات تاريخ المزايدة، وتنبيهات المزاد، وملفات تعريف البائع. تم تطويره باستخدام Django و React.js.",
+          "img": "./assets/img/projects/auction.jpg",
+          "category": [
+            "all",
+            "django",
+            "react",
+            "javascript"
+          ]
+        },
+        {
+          "id": "20",
+          "title": "تطبيق مشاركة الوصفات",
+          "description": "تطبيق لمشاركة الوصفات حيث يمكن للمستخدمين اكتشاف وحفظ ومشاركة الوصفات. تتضمن الميزات فئات الوصفات والبحث وملفات تعريف المستخدمين. تم تطويره باستخدام Angular و Firebase.",
+          "img": "./assets/img/projects/recipe-sharing.jpg",
+          "category": [
+            "all",
+            "angular",
+            "firebase",
+            "javascript"
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "company": {
+        "title": "شركة سكارتك",
+        "description": "شركة تقنية رائدة متخصصة في تطوير الويب وحلول البرمجيات."
+      },
+      "project": {
+        "title": "المشاريع",
+        "category": [
+          "Html/css",
+          "react",
+          "javascript",
+          "typeScript"
+        ]
+      },
+      "contact": {
+        "title": "تواصل معنا",
+        "address": "اليمن، عدن، إنماء",
+        "email": "scratech_website@gmail.com",
+        "phone": "+967 782 367 865",
+        "phone2": "+967 736 613 287"
+      },
+      "social": {
+        "title": "تابعنا",
+        "links":[
+          {
+            "link":"",
+            "icon":"./assets/img/social/facebook_.png"
+          },
+          {
+            "link":"",
+            "icon":"./assets/img/social/instagram_.png"
+          },
+          {
+            "link":"",
+            "icon":"./assets/img/social/twitter_.png"
+          },
+          {
+            "link":"",
+            "icon":"./assets/img/social/google_.png"
+          },
+          {
+            "link":"",
+            "icon":"./assets/img/social/github_.png"
+          },
+          {
+            "link":"",
+            "icon":"./assets/img/social/linkedin.png"
+          }
+        ]
+      }
+    }
+  }
+]
