@@ -90,6 +90,7 @@
 }
 
 .servies2nd .first_section button {
+  text-transform: capitalize;
   margin: 5px;
   padding: 10px 15px;
   border: 0;

@@ -5,6 +5,7 @@ import Project from '../../pages/Project/Project'; // Import Project page compon
 import './Navbar.css'; // Import CSS file for styling
 import Blog from '../../pages/Blog/Blog';
 import Pricing from '../../pages/Pricing/Pricing';
+import Contact from '../../pages/Conatct/Contact';
 import Footer from '../footer/Footer';
 import Page404 from '../../pages/404/Page404';
 
@@ -51,8 +52,7 @@ export default function Navbar(props: NavData) {
           </nav>
           {/* Sign-in/sign-up section */}
           <div className='login'>
-            <Link to={"/LogIn"}>{props.navData.sign[0]}</Link> {/* Render sign-in link */}
-            <Link to={"/SginUp"}>{props.navData.sign[1]}</Link> {/* Render sign-up link */}
+            <Link to={"/Contact"}> <button className='lets_start'>{props.navData.sign[1]}</button></Link> {/* Render sign-up link */}
             <button onClick={props.setToggle}> {props.language ? "EN" : "AR"}</button> {/* Button to toggle language */}
           </div>
         </header>
@@ -63,6 +63,7 @@ export default function Navbar(props: NavData) {
           <Route path='/Project' element={<Project project={props.Data.project} />} /> {/* Route for Project page */}
           <Route path='/Blog' element={<Blog blogs={props.Data.blog} />} /> {/* Route for Blog page */}
           <Route path='/Pricing' element={<Pricing pricing={props.Data.pricing} />} /> {/* Route for Blog page */}
+          <Route path='/Contact' element={<Contact contact={props.Data.contact} />} /> {/* Route for Blog page */}
           <Route path='*' element={<Page404 />}></Route>
         </Routes>
 

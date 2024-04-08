@@ -54,27 +54,28 @@ header .login {
   text-align: end;
 }
 
-header .login a {
-  margin: 7px;
-  padding: 10px;
-  text-decoration: none;
-  font-size: clamp(8px, 3vw, 15px);
-  border-radius: 5px;
-  color: var(--black-color);
-}
-
-header .login a:nth-of-type(2) {
-  background: var(--gray-color);
-}
-
 header .login button {
+  padding: 10px;
+  border-radius: 5px;
   background: var(--black-color);
   color: var(--white-color);
   font-size: clamp(8px, 3vw, 10px);
-  padding: 10px;
   cursor: pointer;
 }
-
+header .login .lets_start {
+  margin: 7px;
+  padding: 10px 15px;
+  border: 1px solid var(--gray2nd-color);
+  background: var(--white-color);
+  color: var(--black-color);
+  text-decoration: none;
+  font-size: clamp(8px, 3vw, 15px);
+  transition: 0.5s;
+}
+header .login .lets_start:hover {
+  background-color: var(--blue-color);
+  color: var(--white-color);
+}
 @media screen and (max-width: 900px) {
   header {
     padding-inline: 20px;

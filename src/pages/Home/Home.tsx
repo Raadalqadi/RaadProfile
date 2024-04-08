@@ -1,5 +1,6 @@
 import { memo } from "react"; // Import memo from React for performance optimization
 import PrandElement from "../../components/Home/PrandElement"; // Import PrandElement component
+import { Link } from "react-router-dom";
 import "./home.css"; // Import CSS file for styling
 
 
@@ -28,7 +29,7 @@ const Home: React.FC<HomeData> = (props) => {
                     <div className="first_section">
                         <div className="title">{props.home.title}</div>
                         <div className="description">{props.home.description}</div>
-                        <button>{props.home.btn}</button>
+                        <Link to={"/Contact"}> <button>{props.home.btn}</button></Link>
                     </div>
                     {/* Second section with background image and card */}
                     <div className="second_section">

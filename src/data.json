@@ -336,7 +336,7 @@
           "id": 1,
           "title": "A Guide to Express.js Routing",
           "description": "Learn how to create routes in Express.js for your web applications.",
-          "img": "./assets/img/bg-sign-in-basic.jpeg",
+          "img": "./assets/img/program.webp",
           "info": {
             "icon": "./assets/img/team-1.jpg",
             "name": "John Doe",
@@ -348,7 +348,7 @@
           "id": 2,
           "title": "Introduction to React Hooks",
           "description": "Discover the power of React Hooks for state management and side effects.",
-          "img": "./assets/img/bg-sign-in-basic.jpeg",
+          "img": "./assets/img/program.webp",
           "info": {
             "icon": "./assets/img/team-2.jpg",
             "name": "Jane Smith",
@@ -360,7 +360,7 @@
           "id": 3,
           "title": "Getting Started with Python Flask",
           "description": "Begin your journey with Flask and build lightweight web applications with Python.",
-          "img": "./assets/img/bg-sign-in-basic.jpeg",
+          "img": "./assets/img/program.webp",
           "info": {
             "icon": "./assets/img/team-3.jpg",
             "name": "Alex Johnson",
@@ -372,7 +372,7 @@
           "id": 4,
           "title": "Mastering CSS Grid Layout",
           "description": "Unlock the full potential of CSS Grid Layout and create complex layouts with ease.",
-          "img": "./assets/img/bg-sign-in-basic.jpeg",
+          "img": "./assets/img/program.webp",
           "info": {
             "icon": "./assets/img/team-4.jpg",
             "name": "Emily Wilson",
@@ -384,7 +384,7 @@
           "id": 5,
           "title": "JavaScript ES6 Features You Should Know",
           "description": "Explore the latest features introduced in ES6 and enhance your JavaScript skills.",
-          "img": "./assets/img/bg-sign-in-basic.jpeg",
+          "img": "./assets/img/program.webp",
           "info": {
             "icon": "./assets/img/team-5.jpg",
             "name": "Michael Brown",
@@ -438,6 +438,24 @@
           ]
         }
       ]
+    },
+    "contact": {
+      "title": {
+        "left": "send a massege",
+        "right": "Contact With US"
+      },
+      "fname": "first name",
+      "lname": "last name",
+      "phone": "phone number",
+      "description": {
+        "left": "inter your massege",
+        "right": "Leading technology company specializing in web development and software solutions."
+      },
+      "address": "Yemen,Aden,enma",
+      "phonenumber": "+967 736 613 287",
+      "emailname": "email",
+      "email": "scratech_website@gmail.com",
+      "btn": "send massege"
     },
     "footer": {
       "company": {
@@ -579,248 +597,248 @@
         "asp.net",
         "firebase"
       ],
-      "items":[
+      "items": [
         {
-        "id":"1",
-        "title":"موقع تجارة إلكترونية",
-        "description":"منصة تجارة إلكترونية مبنية باستخدام React.js و Redux لإدارة الحالة. يتضمن هذا المشروع ميزات مثل عرض المنتجات، المصادقة للمستخدم، سلة التسوق، وتكامل بوابة الدفع.",
-        "img":"./assets/img/project/ecommerce.jpg",
-        "category":[
-        "all",
-        "html/css",
-        "react",
-        "redux",
-        "javascript"
-        ]
+          "id": "1",
+          "title": "موقع تجارة إلكترونية",
+          "description": "منصة تجارة إلكترونية مبنية باستخدام React.js و Redux لإدارة الحالة. يتضمن هذا المشروع ميزات مثل عرض المنتجات، المصادقة للمستخدم، سلة التسوق، وتكامل بوابة الدفع.",
+          "img": "./assets/img/project/ecommerce.jpg",
+          "category": [
+            "all",
+            "html/css",
+            "react",
+            "redux",
+            "javascript"
+          ]
         },
         {
-        "id":"2",
-        "title":"موقع تواصل اجتماعي",
-        "description":"منصة تواصل اجتماعي تم تطويرها باستخدام مكدس MERN (MongoDB، Express.js، React.js، Node.js). يمكن للمستخدمين إنشاء ملفات شخصية، والتواصل مع الأصدقاء، ومشاركة المنشورات، والتفاعل مع مستخدمين آخرين.",
-        "img":"./assets/img/project/preview-screenshot.webp",
-        "category":[
-        "all",
-        "react",
-        "javascript",
-        "mongodb",
-        "express"
-        ]
+          "id": "2",
+          "title": "موقع تواصل اجتماعي",
+          "description": "منصة تواصل اجتماعي تم تطويرها باستخدام مكدس MERN (MongoDB، Express.js، React.js، Node.js). يمكن للمستخدمين إنشاء ملفات شخصية، والتواصل مع الأصدقاء، ومشاركة المنشورات، والتفاعل مع مستخدمين آخرين.",
+          "img": "./assets/img/project/preview-screenshot.webp",
+          "category": [
+            "all",
+            "react",
+            "javascript",
+            "mongodb",
+            "express"
+          ]
         },
         {
-        "id":"3",
-        "title":"موقع شخصي لعرض السيرة الذاتية",
-        "description":"موقع ويب شخصي يعرض المشاريع والمهارات والخبرات. تم بناؤه باستخدام HTML، CSS، و JavaScript، مع تصميم متجاوب للعرض الأمثل عبر الأجهزة.",
-        "img":"./assets/img/project/Portfolio.png",
-        "category":[
-        "all",
-        "html/css",
-        "javascript"
-        ]
+          "id": "3",
+          "title": "موقع شخصي لعرض السيرة الذاتية",
+          "description": "موقع ويب شخصي يعرض المشاريع والمهارات والخبرات. تم بناؤه باستخدام HTML، CSS، و JavaScript، مع تصميم متجاوب للعرض الأمثل عبر الأجهزة.",
+          "img": "./assets/img/project/Portfolio.png",
+          "category": [
+            "all",
+            "html/css",
+            "javascript"
+          ]
         },
         {
-        "id":"4",
-        "title":"تطبيق مدونة",
-        "description":"تطبيق مدونة كامل الشاشة تم بناؤه باستخدام Django و React.js. يمكن للمستخدمين إنشاء وتحرير وحذف مقالات المدونة، بالإضافة إلى التعليق على المقالات. تتضمن الميزات المصادقة والتفويض للمستخدم.",
-        "img":"./assets/img/project/preview.avif",
-        "category":[
-        "all",
-        "react",
-        "django",
-        "javascript"
-        ]
+          "id": "4",
+          "title": "تطبيق مدونة",
+          "description": "تطبيق مدونة كامل الشاشة تم بناؤه باستخدام Django و React.js. يمكن للمستخدمين إنشاء وتحرير وحذف مقالات المدونة، بالإضافة إلى التعليق على المقالات. تتضمن الميزات المصادقة والتفويض للمستخدم.",
+          "img": "./assets/img/project/preview.avif",
+          "category": [
+            "all",
+            "react",
+            "django",
+            "javascript"
+          ]
         },
         {
-        "id":"5",
-        "title":"منصة تعليم عبر الإنترنت",
-        "description":"منصة تعليم عبر الإنترنت حيث يمكن للمستخدمين التسجيل في الدورات، ومشاهدة المحاضرات، وإكمال الاختبارات، والحصول على شهادات. تم بناؤها باستخدام مكدس MERN وتتكامل مع Stripe لمعالجة الدفع.",
-        "img":"./assets/img/project/Learning.webp",
-        "category":[
-        "all",
-        "react",
-        "mongodb",
-        "express",
-        "node.js"
-        ]
+          "id": "5",
+          "title": "منصة تعليم عبر الإنترنت",
+          "description": "منصة تعليم عبر الإنترنت حيث يمكن للمستخدمين التسجيل في الدورات، ومشاهدة المحاضرات، وإكمال الاختبارات، والحصول على شهادات. تم بناؤها باستخدام مكدس MERN وتتكامل مع Stripe لمعالجة الدفع.",
+          "img": "./assets/img/project/Learning.webp",
+          "category": [
+            "all",
+            "react",
+            "mongodb",
+            "express",
+            "node.js"
+          ]
         },
         {
-        "id":"6",
-        "title":"مدونة سفر",
-        "description":"موقع ويب لمدونة السفر حيث يمكن للمستخدمين مشاركة تجاربهم في السفر ونصائحهم وصورهم. تم بناؤه باستخدام WordPress وتخصيصه بـ HTML، CSS، و JavaScript.",
-        "img":"./assets/img/project/Travel.avif",
-        "category":[
-        "all",
-        "wordpress",
-        "html/css",
-        "javascript"
-        ]
+          "id": "6",
+          "title": "مدونة سفر",
+          "description": "موقع ويب لمدونة السفر حيث يمكن للمستخدمين مشاركة تجاربهم في السفر ونصائحهم وصورهم. تم بناؤه باستخدام WordPress وتخصيصه بـ HTML، CSS، و JavaScript.",
+          "img": "./assets/img/project/Travel.avif",
+          "category": [
+            "all",
+            "wordpress",
+            "html/css",
+            "javascript"
+          ]
         },
         {
-        "id":"7",
-        "title":"تطبيق الوصفات",
-        "description":"تطبيق الوصفات حيث يمكن للمستخدمين تصفح الوصفات، والبحث عن أطباق معينة، وحفظ وصفاتهم المفضلة. تم تطويره باستخدام React.js وتم تصميمه بواسطة Material-UI.",
-        "img":"./assets/img/project/Recipe.png",
-        "category":[
-        "all",
-        "react",
-        "javascript",
-        "material-ui"
-        ]
+          "id": "7",
+          "title": "تطبيق الوصفات",
+          "description": "تطبيق الوصفات حيث يمكن للمستخدمين تصفح الوصفات، والبحث عن أطباق معينة، وحفظ وصفاتهم المفضلة. تم تطويره باستخدام React.js وتم تصميمه بواسطة Material-UI.",
+          "img": "./assets/img/project/Recipe.png",
+          "category": [
+            "all",
+            "react",
+            "javascript",
+            "material-ui"
+          ]
         },
         {
-        "id":"8",
-        "title":"منصة التعلم الإلكتروني",
-        "description":"منصة التعلم الإلكتروني التي تقدم دورات في مواضيع مختلفة. تم بناؤها باستخدام Laravel للجزء الخلفي و Vue.js للجزء الأمامي. تتضمن الميزات محاضرات الفيديو والاختبارات والشهادات.",
-        "img":"./assets/img/project/E-learning.jpg",
-        "category":[
-        "all",
-        "laravel",
-        "vue.js",
-        "javascript"
-        ]
+          "id": "8",
+          "title": "منصة التعلم الإلكتروني",
+          "description": "منصة التعلم الإلكتروني التي تقدم دورات في مواضيع مختلفة. تم بناؤها باستخدام Laravel للجزء الخلفي و Vue.js للجزء الأمامي. تتضمن الميزات محاضرات الفيديو والاختبارات والشهادات.",
+          "img": "./assets/img/project/E-learning.jpg",
+          "category": [
+            "all",
+            "laravel",
+            "vue.js",
+            "javascript"
+          ]
         },
         {
-        "id":"9",
-        "title":"موقع بحث عن وظيفة",
-        "description":"منصة بحث عن وظائف حيث يمكن للمستخدمين البحث عن قوائم الوظائف، وإنشاء ملفاتهم الشخصية، والتقدم للوظائف. تم تطويره باستخدام Django للجزء الخلفي و React.js للجزء الأمامي.",
-        "img":"./assets/img/project/jobfinder-1.jpg",
-        "category":[
-        "all",
-        "django",
-        "react",
-        "javascript"
-        ]
+          "id": "9",
+          "title": "موقع بحث عن وظيفة",
+          "description": "منصة بحث عن وظائف حيث يمكن للمستخدمين البحث عن قوائم الوظائف، وإنشاء ملفاتهم الشخصية، والتقدم للوظائف. تم تطويره باستخدام Django للجزء الخلفي و React.js للجزء الأمامي.",
+          "img": "./assets/img/project/jobfinder-1.jpg",
+          "category": [
+            "all",
+            "django",
+            "react",
+            "javascript"
+          ]
         },
         {
-        "id":"10",
-        "title":"خدمة تدفق الموسيقى",
-        "description":"خدمة تدفق الموسيقى التي تسمح للمستخدمين بالاستماع إلى الأغاني، وإنشاء قوائم تشغيل، ومتابعة الفنانين. تم بناؤها باستخدام Flask و React.js. تتكامل مع API Spotify لبيانات الموسيقى.",
-        "img":"./assets/img/project/Music.png",
-        "category":[
-        "all",
-        "flask",
-        "react",
-        "javascript"
-        ]
+          "id": "10",
+          "title": "خدمة تدفق الموسيقى",
+          "description": "خدمة تدفق الموسيقى التي تسمح للمستخدمين بالاستماع إلى الأغاني، وإنشاء قوائم تشغيل، ومتابعة الفنانين. تم بناؤها باستخدام Flask و React.js. تتكامل مع API Spotify لبيانات الموسيقى.",
+          "img": "./assets/img/project/Music.png",
+          "category": [
+            "all",
+            "flask",
+            "react",
+            "javascript"
+          ]
         },
         {
-        "id":"11",
-        "title":"تطبيق تتبع اللياقة البدنية",
-        "description":"تطبيق لتتبع اللياقة البدنية يسمح للمستخدمين بتسجيل تمارينهم الرياضية، وتحديد الأهداف، وتتبع تقدمهم مع مرور الوقت. تم تطويره باستخدام React Native للتوافق متعدد المنصات.",
-        "img":"./assets/img/project/Fitness.png",
-        "category":[
-        "all",
-        "react native",
-        "javascript"
-        ]
+          "id": "11",
+          "title": "تطبيق تتبع اللياقة البدنية",
+          "description": "تطبيق لتتبع اللياقة البدنية يسمح للمستخدمين بتسجيل تمارينهم الرياضية، وتحديد الأهداف، وتتبع تقدمهم مع مرور الوقت. تم تطويره باستخدام React Native للتوافق متعدد المنصات.",
+          "img": "./assets/img/project/Fitness.png",
+          "category": [
+            "all",
+            "react native",
+            "javascript"
+          ]
         },
         {
-        "id":"12",
-        "title":"موقع عقاري",
-        "description":"منصة عقارية حيث يمكن للمستخدمين تصفح قوائم العقارات وجدولة المشاهدات والاتصال بالوكلاء. تم بناؤه باستخدام Angular للجزء الأمامي و Node.js للجزء الخلفي.",
-        "img":"./assets/img/project/Real.webp",
-        "category":[
-        "all",
-        "angular",
-        "node.js",
-        "javascript"
-        ]
+          "id": "12",
+          "title": "موقع عقاري",
+          "description": "منصة عقارية حيث يمكن للمستخدمين تصفح قوائم العقارات وجدولة المشاهدات والاتصال بالوكلاء. تم بناؤه باستخدام Angular للجزء الأمامي و Node.js للجزء الخلفي.",
+          "img": "./assets/img/project/Real.webp",
+          "category": [
+            "all",
+            "angular",
+            "node.js",
+            "javascript"
+          ]
         },
         {
-        "id":"13",
-        "title":"سوق عبر الإنترنت",
-        "description":"سوق عبر الإنترنت يربط بين البائعين والمشترين. تتضمن الميزات قوائم المنتجات والمراجعات والدفع الآمن. تم تطويره باستخدام Ruby on Rails و React.js.",
-        "img":"./assets/img/project/Online.jpg",
-        "category":[
-        "all",
-        "ruby on rails",
-        "react",
-        "javascript"
-        ]
+          "id": "13",
+          "title": "سوق عبر الإنترنت",
+          "description": "سوق عبر الإنترنت يربط بين البائعين والمشترين. تتضمن الميزات قوائم المنتجات والمراجعات والدفع الآمن. تم تطويره باستخدام Ruby on Rails و React.js.",
+          "img": "./assets/img/project/Online.jpg",
+          "category": [
+            "all",
+            "ruby on rails",
+            "react",
+            "javascript"
+          ]
         },
         {
-        "id":"14",
-        "title":"تطبيق الطقس",
-        "description":"تطبيق للطقس يوفر الظروف الجوية الحالية والتوقعات لمواقع في جميع أنحاء العالم. تم بناؤه باستخدام Vue.js ويستخدم OpenWeatherMap API.",
-        "img":"./assets/img/project/Weather.png",
-        "category":[
-        "all",
-        "vue.js",
-        "javascript"
-        ]
+          "id": "14",
+          "title": "تطبيق الطقس",
+          "description": "تطبيق للطقس يوفر الظروف الجوية الحالية والتوقعات لمواقع في جميع أنحاء العالم. تم بناؤه باستخدام Vue.js ويستخدم OpenWeatherMap API.",
+          "img": "./assets/img/project/Weather.png",
+          "category": [
+            "all",
+            "vue.js",
+            "javascript"
+          ]
         },
         {
-        "id":"15",
-        "title":"نظام إدارة المهام",
-        "description":"تطبيق لإدارة المهام لتنظيم وتحديد أولويات المهام. تتضمن الميزات قوائم المهام والمواعيد النهائية والتذكيرات. تم تطويره باستخدام Django و Vue.js.",
-        "img":"./assets/img/project/Task.png",
-        "category":[
-        "all",
-        "django",
-        "vue.js",
-        "javascript"
-        ]
+          "id": "15",
+          "title": "نظام إدارة المهام",
+          "description": "تطبيق لإدارة المهام لتنظيم وتحديد أولويات المهام. تتضمن الميزات قوائم المهام والمواعيد النهائية والتذكيرات. تم تطويره باستخدام Django و Vue.js.",
+          "img": "./assets/img/project/Task.png",
+          "category": [
+            "all",
+            "django",
+            "vue.js",
+            "javascript"
+          ]
         },
         {
-        "id":"16",
-        "title":"نظام حجز المطاعم",
-        "description":"نظام ويب لحجز المطاعم. يتيح للمستخدمين تصفح المطاعم وعرض الجداول المتاحة وحجز المواعيد. تم بناؤه باستخدام ASP.NET و Angular.",
-        "img":"./assets/img/project/Restaurant.avif",
-        "category":[
-        "all",
-        "asp.net",
-        "angular",
-        "javascript"
-        ]
+          "id": "16",
+          "title": "نظام حجز المطاعم",
+          "description": "نظام ويب لحجز المطاعم. يتيح للمستخدمين تصفح المطاعم وعرض الجداول المتاحة وحجز المواعيد. تم بناؤه باستخدام ASP.NET و Angular.",
+          "img": "./assets/img/project/Restaurant.avif",
+          "category": [
+            "all",
+            "asp.net",
+            "angular",
+            "javascript"
+          ]
         },
         {
-        "id":"17",
-        "title":"متتبع محفظة العملات الرقمية",
-        "description":"متتبع محفظة لمراقبة استثمارات العملات الرقمية. يتيح للمستخدمين تتبع ما يملكونه، وعرض اتجاهات السوق، وتعيين تنبيهات الأسعار. تم تطويره باستخدام React.js و Node.js.",
-        "img":"./assets/img/project/Cryptocurrency.png",
-        "category":[
-        "all",
-        "react",
-        "node.js",
-        "javascript"
-        ]
+          "id": "17",
+          "title": "متتبع محفظة العملات الرقمية",
+          "description": "متتبع محفظة لمراقبة استثمارات العملات الرقمية. يتيح للمستخدمين تتبع ما يملكونه، وعرض اتجاهات السوق، وتعيين تنبيهات الأسعار. تم تطويره باستخدام React.js و Node.js.",
+          "img": "./assets/img/project/Cryptocurrency.png",
+          "category": [
+            "all",
+            "react",
+            "node.js",
+            "javascript"
+          ]
         },
         {
-        "id":"18",
-        "title":"منصة إدارة الفعاليات",
-        "description":"منصة إدارة الفعاليات لتنظيم وترويج الفعاليات. تتضمن الميزات تسجيل الفعاليات وبيع التذاكر وإدارة الحضور. تم بناؤها باستخدام Laravel و Vue.js.",
-        "img":"./assets/img/project/Event.webp",
-        "category":[
-        "all",
-        "laravel",
-        "vue.js",
-        "javascript"
-        ]
+          "id": "18",
+          "title": "منصة إدارة الفعاليات",
+          "description": "منصة إدارة الفعاليات لتنظيم وترويج الفعاليات. تتضمن الميزات تسجيل الفعاليات وبيع التذاكر وإدارة الحضور. تم بناؤها باستخدام Laravel و Vue.js.",
+          "img": "./assets/img/project/Event.webp",
+          "category": [
+            "all",
+            "laravel",
+            "vue.js",
+            "javascript"
+          ]
         },
         {
-        "id":"19",
-        "title":"موقع مزاد عبر الإنترنت",
-        "description":"منصة مزاد عبر الإنترنت حيث يمكن للمستخدمين المشاركة في المزايدات والمزايدة على العناصر. تتضمن الميزات تاريخ المزايدات وتنبيهات المزادات وملفات تعريف البائع. تم تطويره باستخدام Django و React.js.",
-        "img":"./assets/img/project/Auction.png",
-        "category":[
-        "all",
-        "django",
-        "react",
-        "javascript"
-        ]
+          "id": "19",
+          "title": "موقع مزاد عبر الإنترنت",
+          "description": "منصة مزاد عبر الإنترنت حيث يمكن للمستخدمين المشاركة في المزايدات والمزايدة على العناصر. تتضمن الميزات تاريخ المزايدات وتنبيهات المزادات وملفات تعريف البائع. تم تطويره باستخدام Django و React.js.",
+          "img": "./assets/img/project/Auction.png",
+          "category": [
+            "all",
+            "django",
+            "react",
+            "javascript"
+          ]
         },
         {
-        "id":"20",
-        "title":"تطبيق مشاركة الوصفات",
-        "description":"تطبيق لمشاركة الوصفات حيث يمكن للمستخدمين اكتشاف الوصفات وحفظها ومشاركتها. تتضمن الميزات فئات الوصفات ووظيفة البحث وملفات تعريف المستخدمين. تم تطويره باستخدام Angular و Firebase.",
-        "img":"./assets/img/project/Sharing App.png",
-        "category":[
-        "all",
-        "angular",
-        "firebase",
-        "javascript"
-        ]
+          "id": "20",
+          "title": "تطبيق مشاركة الوصفات",
+          "description": "تطبيق لمشاركة الوصفات حيث يمكن للمستخدمين اكتشاف الوصفات وحفظها ومشاركتها. تتضمن الميزات فئات الوصفات ووظيفة البحث وملفات تعريف المستخدمين. تم تطويره باستخدام Angular و Firebase.",
+          "img": "./assets/img/project/Sharing App.png",
+          "category": [
+            "all",
+            "angular",
+            "firebase",
+            "javascript"
+          ]
         }
-        ]
+      ]
     },
     "blog": {
       "blogs_card": [
@@ -828,7 +846,7 @@
           "id": 1,
           "title": "دليل لتوجيه Express.js",
           "description": "تعلم كيفية إنشاء مسارات في Express.js لتطبيقات الويب الخاصة بك.",
-          "img": "./assets/img/bg-sign-in-basic.jpeg",
+          "img": "./assets/img/program.webp",
           "info": {
             "icon": "./assets/img/team-1.jpg",
             "name": "جون دو",
@@ -840,7 +858,7 @@
           "id": 2,
           "title": "مقدمة لسنانير React",
           "description": "اكتشف قوة React Hooks لإدارة الحالة والآثار الجانبية.",
-          "img": "./assets/img/bg-sign-in-basic.jpeg",
+          "img": "./assets/img/program.webp",
           "info": {
             "icon": "./assets/img/team-2.jpg",
             "name": "جين سميث",
@@ -852,7 +870,7 @@
           "id": 3,
           "title": "البدء مع بيثون Flask",
           "description": "ابدأ رحلتك مع Flask وقم ببناء تطبيقات ويب خفيفة الوزن باستخدام Python.",
-          "img": "./assets/img/bg-sign-in-basic.jpeg",
+          "img": "./assets/img/program.webp",
           "info": {
             "icon": "./assets/img/team-3.jpg",
             "name": "أليكس جونسون",
@@ -864,7 +882,7 @@
           "id": 4,
           "title": "احتراف تخطيط شبكة CSS",
           "description": "فتح الإمكانات الكاملة لتخطيط شبكة CSS وإنشاء تخطيطات معقدة بسهولة.",
-          "img": "./assets/img/bg-sign-in-basic.jpeg",
+          "img": "./assets/img/program.webp",
           "info": {
             "icon": "./assets/img/team-4.jpg",
             "name": "إميلي ويلسون",
@@ -876,7 +894,7 @@
           "id": 5,
           "title": "ميزات JavaScript ES6 يجب أن تعرفها",
           "description": "استكشف أحدث الميزات المقدمة في ES6 وقم بتعزيز مهاراتك في JavaScript.",
-          "img": "./assets/img/bg-sign-in-basic.jpeg",
+          "img": "./assets/img/program.webp",
           "info": {
             "icon": "./assets/img/team-5.jpg",
             "name": "مايكل براون",
@@ -930,6 +948,24 @@
           ]
         }
       ]
+    },
+    "contact": {
+      "title": {
+        "left": "إرسال رسالة",
+        "right": "تواصل معنا"
+      },
+      "fname": "الاسم الأول",
+      "lname": "الاسم الأخير",
+      "phone": "رقم الهاتف",
+      "description": {
+        "left": "أدخل رسالتك",
+        "right": "شركة تقنية رائدة متخصصة في تطوير الويب وحلول البرمجيات."
+      },
+      "address": "اليمن، عدن، إنماء",
+      "phonenumber": "+967 736 613 287",
+      "emailname": "email",
+      "email": "scratech_website@gmail.com",
+      "btn": "إرسال الرسالة"
     },
     "footer": {
       "company": {
