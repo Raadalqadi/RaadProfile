@@ -4,6 +4,7 @@ import Servies from '../../pages/Servies/Servies'; // Import Services page compo
 import Project from '../../pages/Project/Project'; // Import Project page component
 import './Navbar.css'; // Import CSS file for styling
 import Blog from '../../pages/Blog/Blog';
+import Pricing from '../../pages/Pricing/Pricing';
 import Footer from '../footer/Footer';
 import Page404 from '../../pages/404/Page404';
 
@@ -61,6 +62,7 @@ export default function Navbar(props: NavData) {
           <Route path='/Servies' element={<Servies servies={props.Data.servies} />} /> {/* Route for Services page */}
           <Route path='/Project' element={<Project project={props.Data.project} />} /> {/* Route for Project page */}
           <Route path='/Blog' element={<Blog blogs={props.Data.blog} />} /> {/* Route for Blog page */}
+          <Route path='/Pricing' element={<Pricing pricing={props.Data.pricing} />} /> {/* Route for Blog page */}
           <Route path='*' element={<Page404 />}></Route>
         </Routes>
 

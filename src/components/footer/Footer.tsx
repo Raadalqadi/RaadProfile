@@ -38,8 +38,8 @@ const Footer: React.FC<FooterData> = (props) => {
         <ul>
           <h3>{props.footer.project.title}</h3>
           {props.footer.project.category.length !== 0
-            ? props.footer.project.category.map((category) => (
-              <li>{category}</li>
+            ? props.footer.project.category.map((category,counter) => (
+              <li key={counter}>{category}</li>
             ))
             : ""}
         </ul>
@@ -56,8 +56,8 @@ const Footer: React.FC<FooterData> = (props) => {
           <h3>{props.footer.social.title}</h3>
           <div className="social_content">
             {props.footer.social.links.length !== 0
-              ? props.footer.social.links.map((link) => (
-                <li>
+              ? props.footer.social.links.map((link,counter) => (
+                <li key={counter}>
                   <a href={link.link}>
                     <img src={link.icon} alt="" />
                   </a>

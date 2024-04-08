@@ -2,6 +2,7 @@ import { memo } from "react"; // Import memo from React for performance optimiza
 import PrandElement from "../../components/Home/PrandElement"; // Import PrandElement component
 import "./home.css"; // Import CSS file for styling
 
+
 // Define type for home data
 type HomeData = {
     home: {
@@ -17,6 +18,7 @@ type HomeData = {
 
 // Define Home component
 const Home: React.FC<HomeData> = (props) => {
+
     return (
         <>
             {/* Main section for the home page */}
