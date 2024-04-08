@@ -64,7 +64,7 @@ header .login button {
 }
 header .login .lets_start {
   margin: 7px;
-  padding: 0 15px;
+  padding: 10px 15px;
   border: 1px solid var(--gray2nd-color);
   background: var(--white-color);
   color: var(--black-color);
